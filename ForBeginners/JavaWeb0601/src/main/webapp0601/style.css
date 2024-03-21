@@ -1,18 +1,18 @@
 @charset "UTF-8";
 
 body {
-	font-family: BIZ UDPゴシック;
-	background-color: #98fb98;
-	text-align: center;
+  font-family: BIZ UDPゴシック;
+  background-color: #98fb96;
+  text-align: center;
 }
 
 h1 {
-	font-size: 32px;
-    color: green
+  font-size: 32px;
+  color: blue;
 }
 
 h2 {
-	font-size: 28px;
-    background-color: green;
-    color: white
+  font-size: 28px;
+  background-color: royalblue;
+  color: white;
 }
